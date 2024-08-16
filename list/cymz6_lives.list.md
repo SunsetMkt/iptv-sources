@@ -1,4 +1,4 @@
-# List for **cymz6/AutoIPTV-Hotel lives**(Rollback)
+# List for **cymz6/AutoIPTV-Hotel lives**
 
 > M3U: [cymz6_lives.m3u](/cymz6_lives.m3u), TXT: [cymz6_lives.txt](/txt/cymz6_lives.txt)
 
@@ -616,4 +616,4 @@
 | 610 | 龙祥电影 | IPv4 直链 | <http://171.108.239.128:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 611 | 龙祥电影 | IPv4 直链 | <http://171.108.239.127:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Fri Aug 16 2024 14:16:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 16 2024 16:25:17 GMT+0000 (Coordinated Universal Time)**
